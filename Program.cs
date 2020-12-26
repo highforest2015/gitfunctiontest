@@ -18,7 +18,7 @@ namespace ex20201121_001
             string firstPartOfSentence = "I am starting to program ";
             string secondPartOfSentence = "in C#.";
             Console.WriteLine("The whole sentence is:\" " + firstPartOfSentence + secondPartOfSentence + "\"");
-            // Unicode characters, in this case Greek beta
+            // Unicode characters, in this case Greek beta 
             Console.WriteLine("If the font knows, here is Greek beta: \u03B2");
             // I prefer specifying "Enter" in more human form
             Console.WriteLine("First line" + Environment.NewLine + "Second line");
