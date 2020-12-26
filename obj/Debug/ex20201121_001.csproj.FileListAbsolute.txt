@@ -1,0 +1,7 @@
+F:\learning\20201121vsprojects\ex20201121_001\bin\Debug\ex20201121_001.exe.config
+F:\learning\20201121vsprojects\ex20201121_001\bin\Debug\ex20201121_001.exe
+F:\learning\20201121vsprojects\ex20201121_001\bin\Debug\ex20201121_001.pdb
+F:\learning\20201121vsprojects\ex20201121_001\obj\Debug\ex20201121_001.csprojAssemblyReference.cache
+F:\learning\20201121vsprojects\ex20201121_001\obj\Debug\ex20201121_001.csproj.CoreCompileInputs.cache
+F:\learning\20201121vsprojects\ex20201121_001\obj\Debug\ex20201121_001.exe
+F:\learning\20201121vsprojects\ex20201121_001\obj\Debug\ex20201121_001.pdb
