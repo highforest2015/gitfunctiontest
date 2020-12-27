@@ -1,0 +1,27 @@
+New changes to program.cs on Dec. 26, 2020
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sat Dec 26 22:00:02 2020 +0800
+#
+# On branch master
+# Changes to be committed:
+#	deleted:    .vs/ex20201121_001/v16/.suo
+#	modified:   Program.cs
+#	deleted:    bin/Debug/ex20201121_001.exe
+#	deleted:    bin/Debug/ex20201121_001.exe.config
+#	deleted:    bin/Debug/ex20201121_001.pdb
+#	deleted:    obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+#	deleted:    obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	deleted:    obj/Debug/ex20201121_001.csproj.CoreCompileInputs.cache
+#	deleted:    obj/Debug/ex20201121_001.csproj.FileListAbsolute.txt
+#	deleted:    obj/Debug/ex20201121_001.csprojAssemblyReference.cache
+#	deleted:    obj/Debug/ex20201121_001.exe
+#	deleted:    obj/Debug/ex20201121_001.pdb
+#
+# Untracked files:
+#	.gitignore
+#	.vs/
+#	help/
+#
